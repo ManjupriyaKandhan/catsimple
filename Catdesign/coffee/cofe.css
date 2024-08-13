@@ -1,0 +1,54 @@
+body{
+    background-image: url("coffeeseed.jpg.crdownload");
+    background-size: cover; 
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.menu{
+    width: 40%;
+    height: 60%;
+    background-color:burlywood;
+text-align: center;
+margin-left: 30%;
+padding: 15px;
+
+}
+
+.head1{
+    font-weight:900;
+    font-size: 40px;
+}
+
+.head2{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.para{
+    font-style: italic;
+    font-weight: 500;
+}
+
+.hori{
+    height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.container{
+    display: flex;
+    width: 80%;
+
+}
+
+.column{
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    margin-left: 15%;
+}
+
